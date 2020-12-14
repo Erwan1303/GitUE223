@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_image {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn_start {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.main_case {
+
+    width: 670px;
+    height: 377px;
+    background-color: rgb(112, 112, 165);
+    margin: 0 auto;
+}
+
+.case {
+    width: 223px;
+    height: 126px;
+    border: 2px solid black;
+}
+
+.ligne1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.ligne2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.ligne3 {
+    display: flex;
+    justify-content: flex-start;
+}
